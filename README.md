@@ -2,8 +2,10 @@
  
 ## Installation and Execution
 1. Download repository `Marching-Cubes-v4.0-Test_Build`.
-2. Executable jar file located in `/src` folder.
-3. Run via command line with `java -jar <install-location>/Marching-Cubes-v4.0.jar`
+2. Run program using `build.bat` file.
+### or
+1. Executable jar file located in `/src` folder.
+2. Run via command line with `java -jar <install-location>/Marching-Cubes-v4.0.jar`
 
 ## Program Arguments
 ### Source Directory:
