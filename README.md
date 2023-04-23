@@ -1,8 +1,14 @@
 # Marching Cubes v4.0 (Test Build)
- 
+## Marching Cubes implementation using OpenGL and LWJGL to visualise medical CT scan data in 3D space.
+<p>
+Copyright Elia Pym, 2023<br>
+Final Year Project Dissertation at Swansea University (Bsc Computer Science).<br>
+See <a href="https://github.com/EliaPym/Marching-Cubes-v4.0">Marching Cubes v4.0 Repository</a> for source code of project.
+</p>
+
 ## Installation and Execution
-1. Download repository `Marching-Cubes-v4.0-Test_Build`.
-2. Run program using `build.bat` file.
+1. Download repository `Marching-Cubes-v4.0-Test-Build`.
+2. Run program using `build.bat` file (Windows only).
 ### or
 1. Executable jar file located in `/src` folder.
 2. Run via command line with `java -jar <install-location>/Marching-Cubes-v4.0.jar`
